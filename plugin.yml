@@ -1,0 +1,16 @@
+name: JDBreakoutCore
+version: 1.0.0
+api:
+    - 3.0.0-ALPHA5
+main: RTG\JDBreakoutCore\Loader
+author: IG
+commands:
+    server:
+        permission: jdb.essentials
+        description: "Server Data"
+    tpall:
+        description: "Teleports everyone to you"
+    killall:
+        description: "kills everyone"
+    mute:
+        description: "Mutes your target"
